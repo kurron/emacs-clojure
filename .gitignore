@@ -4,3 +4,7 @@ pom.xml
 /classes/
 /targets/
 .lein-deps-sum
+.emacs.d/elpa
+.emacs.d/places
+.emacs.d/backup
+.emacs.d/auto-save-list
